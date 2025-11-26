@@ -81,6 +81,9 @@ The Budget Planning & Tracking System is a console-based application developed i
 <img width="1535" height="601" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/eb50425f-9cad-42c7-96cb-40d08cffb63f" />
 <img width="1541" height="595" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/40ab3752-d076-4efd-a3ce-b1d09510097f" />
 <img width="1556" height="594" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/44236028-d4f3-43f2-82a8-db2fcb27a9b9" />
+<img width="1341" height="557" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/567ff12f-5903-4c03-bcc9-8e8658e63fe2" />
+<img width="1303" height="313" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/ffcec9e8-3a5d-4123-936a-138c5edca1be" />
+<img width="1314" height="282" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/2e4b4660-dd8b-4551-ae8f-b0f854f1423d" />
 
 
 
